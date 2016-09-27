@@ -7,4 +7,4 @@
     - une bordure rouge pointillée de 10px.
     - un padding de 5px.
 
-<a src="https://htmlpreview.github.io/?https://github.com/SandrineRoumejon/Exo1-Js/blob/master/index.html">Preview</a>
+<a href="https://htmlpreview.github.io/?https://github.com/SandrineRoumejon/Exo1-Js/blob/master/index.html">Preview</a>
