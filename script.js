@@ -1,9 +1,11 @@
-fonction changerstyle(){
+function changerStyle(){
+
+
+
+document.getElementById('parag1').style.color='#fff'; 
+document.getElementById('parag1').style.background='#000';
+document.getElementById('parag1').style.border="10px dotted red";
+document.getElementById('parag1').style.padding='5px';
+
 
 }
-
-document.getElementById('parag').Style.color=#fff; 
-document.getElementById('parag').Style.backgrond=#000;
-document.getElementById('parag').Style.border=1px oute;
-document.getElementById('parag').Style.padding=spx;
-document.getElementById('parag').Style.backgrond=yellow;
